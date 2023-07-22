@@ -1,0 +1,1 @@
+Akoyawo is a budgetting app
